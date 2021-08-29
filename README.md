@@ -5,9 +5,10 @@
 <img src="./assets/home.gif">
 <h3 align="center">
       <a href="https://davidsonmarra.github.io/Extensao-IC/">
-        <img  src="https://img.shields.io/badge/-ACCESS%20THE%20PROJECT-1100FF?&style=for-the-badge&logoColor=fff"/>
+        <img  src="https://img.shields.io/badge/-ACCESS%20THE%20PROJECT-21255F?&style=for-the-badge&logoColor=fff"/>
       </a>
 </h3>
+<h2>Sobre:</h2>
 <p>Este projeto foi desenvolvido por 3 alunos de Engenharia da Computação da PUC Minas, na disciplina de Introdução a Computação. O intuito do projeto é disponibilizar conteúdo sobre programação gratuito para as pessoas interessadas em aprender sobre o assunto. Para isso, postamos as aulas no YouTube e criamos um site onde também é possível acessar as aulas e conhecer mais sobre o projeto.</p>
 <h3>Tecnologias:</h3>
 <p><strong>Tecnologias utilizadas no site: HTML e CSS</strong><br/>
